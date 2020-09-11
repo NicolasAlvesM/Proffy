@@ -53,7 +53,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   > $ yarn start # ou npm start
   > A Expo será aberta, basta digitalizar o qrcode no terminal ou na página que será aberta.
   > Você pode installar o aplicativo Expo para testar no celular
-  Se houver algum problema com as fontes, execute:
+  ###### Se houver algum problema com as fontes, execute: 
   expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
   
 
