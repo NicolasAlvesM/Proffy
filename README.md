@@ -46,7 +46,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   > $ yarn start # ou npm start
   
   #### Aplicação mobile
-  > $ cd web
+  > $ cd mobile
   > ##### Instalando as dependências do projeto.
   > $ yarn # ou npm install
   > ##### Inicie a aplicação web
