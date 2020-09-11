@@ -18,3 +18,41 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * [Axios](https://github.com/axios/axios)
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
+
+## Executando a aplicação
+### Pré-requisitos
+- É necessário possuir o Node.js e o Expo instalados no computador
+- Também, é preciso ter um gerenciador de pacotes seja o NPM ou Yarn.
+### Executando  
+
+  #### API
+  > $ cd server
+  > ##### Instalando as dependências do projeto.
+  > $ yarn # ou npm install
+  > ##### Execute as migrations
+  > $ npm knex:migrate
+  > ##### Execute os seeds
+  > $ npm knex:seed
+  > yarn knex:migrate
+  > ##### Inicie a API
+  > $ yarn start # ou npm start
+
+  #### Aplicação web
+  > $ cd web
+  > ##### Instalando as dependências do projeto.
+  > $ yarn # ou npm install
+  > ##### Inicie a aplicação web
+  > $ yarn start # ou npm start
+  
+  #### Aplicação mobile
+  > $ cd web
+  > ##### Instalando as dependências do projeto.
+  > $ yarn # ou npm install
+  > ##### Inicie a aplicação web
+  > $ yarn start # ou npm start
+  > A Expo será aberta, basta digitalizar o qrcode no terminal ou na página que será aberta.
+  > Você pode installar o aplicativo Expo para testar no celular
+  Se houver algum problema com as fontes, execute:
+  expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
+  
+
