@@ -20,6 +20,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
 
+## Screenshots
+[homeWeb](https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Home.png)
+[semResultados](https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Sem%20resultados.png)
+[Listagem](https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Listagem.png)
+[Formulario](https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Formul%C3%A1rio.png)
+
 ## Executando a aplicação
 ### Pré-requisitos
 - É necessário possuir o Node.js e o Expo instalados no computador
