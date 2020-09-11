@@ -33,6 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   > $ npm knex:migrate
   > ##### Execute os seeds
   > $ npm knex:seed
+  > ##### Execute
   > yarn knex:migrate
   > ##### Inicie a API
   > $ yarn start # ou npm start
