@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ##Screenshots 
 ### Web
 
-<img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Home.png" width="300"/> <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Sem%20resultados.png" width="300"/> <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Listagem.png" width="300"/> <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Formul%C3%A1rio.png" width="300"/>
+<img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Home.png" width="350"/> <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Sem%20resultados.png" width="350"/> <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Listagem.png" width="350"/> <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Formul%C3%A1rio.png" width="350"/>
 
 ### Mobile
 <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/mobile/Home%20(1).png" height="420"/> <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/mobile/Filtro%20expandido.png" height="420"/> <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/mobile/Favoritos.png" height="420"/> <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/mobile/Quero%20dar%20aulas.png" height="420"/>
