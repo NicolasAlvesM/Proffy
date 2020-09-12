@@ -21,7 +21,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * [CSS](https://www.w3schools.com/css/)
 
 <div>
-![a](https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Home.png)![b](https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Sem%20resultados.png)
+![a](https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Home.png)
+![b](https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Sem%20resultados.png)
 </div>
 
 ## Executando a aplicação
