@@ -30,35 +30,42 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Também, é preciso ter um gerenciador de pacotes seja o NPM ou Yarn.
 ### Executando  
 
-  #### API
-  > $ cd server
-  > ##### Instalando as dependências do projeto.
-  > $ yarn # ou npm install
-  > ##### Execute as migrations
-  > $ npm knex:migrate
-  > ##### Execute os seeds
-  > $ npm knex:seed
-  > ##### Execute
-  > yarn knex:migrate
-  > ##### Inicie a API
-  > $ yarn start # ou npm start
 
+  #### API
+  ```
+   $ cd server
+   ##### Instalando as dependências do projeto.
+   $ yarn # ou npm install
+   ##### Execute as migrations
+   $ npm knex:migrate
+   ##### Execute os seeds
+   $ npm knex:seed
+   ##### Execute
+   yarn knex:migrate
+   ##### Inicie a API
+   $ yarn start # ou npm start
+  ```
   #### Aplicação web
-  > $ cd web
-  > ##### Instalando as dependências do projeto.
-  > $ yarn # ou npm install
-  > ##### Inicie a aplicação web
-  > $ yarn start # ou npm start
+  ```
+   $ cd web
+   ##### Instalando as dependências do projeto.
+   $ yarn # ou npm install
+   ##### Inicie a aplicação web
+   $ yarn start # ou npm start
+  ```
   
   #### Aplicação mobile
-  > $ cd mobile
-  > ##### Instalando as dependências do projeto.
-  > $ yarn # ou npm install
-  > ##### Inicie a aplicação web
-  > $ yarn start # ou npm start
-  > <br /><br /> O Expo será aberto, basta digitalizar o qrcode no terminal ou na página que será aberta.
-  > Você pode installar o aplicativo Expo para testar no celular
+  ```
+   $ cd mobile
+   ##### Instalando as dependências do projeto.
+   $ yarn # ou npm install
+   ##### Inicie a aplicação web
+   $ yarn start # ou npm start
+   <br /><br /> O Expo será aberto, basta digitalizar o qrcode no terminal ou na página que será aberta.
+   Você pode installar o aplicativo Expo para testar no celular
+  ```
   ###### Se houver algum problema com as fontes, execute: 
   > $ expo install expo-font @expo-google-fonts/poppins @expo-google-fonts/archivo
+  
   
 
