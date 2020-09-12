@@ -19,9 +19,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * [Axios](https://github.com/axios/axios)
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
-Home             |  Sem listagem
-:-------------------------:|:-------------------------:
-![](https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Home.png)  |  ![](https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Sem%20resultados.png)
+![alt-text-1](https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Home.png "title-1") ![alt-text-2](https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Sem%20resultados.png "title-2")
+
 
 ## Executando a aplicação
 ### Pré-requisitos
