@@ -20,8 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
 
-## Screenshot
-![homeWeb](https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Home.png)
+
 
 ## Executando a aplicação
 ### Pré-requisitos
