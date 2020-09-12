@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * [Axios](https://github.com/axios/axios)
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
-<div style="display:flex;flex-direction: row;">
+<div style="display:flex;flex-direction: column;">
 <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Home.png" alt="Home">
 <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Sem%20resultados.png" alt="semlist">
   </div>
