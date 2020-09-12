@@ -20,8 +20,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
 
-![a](https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Home.png)
-![b](https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Sem%20resultados.png)
+<img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Home.png" alt="Home">
+<img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Sem%20resultados.png" alt="semlist">
 
 ## Executando a aplicação
 ### Pré-requisitos
