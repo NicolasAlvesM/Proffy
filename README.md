@@ -20,9 +20,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
 
-<img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Home.png" width="420"/> <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Sem%20resultados.png" width="420"/> 
+##Screenshots 
+### Web
 
+<img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Home.png" width="420"/> <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Sem%20resultados.png" width="420"/> <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Listagem.png" width="420"/> <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Formul%C3%A1rio.png" width="420"/>
 
+### Mobile
+<img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/mobile/Home%20(1).png" width="420"/> <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/mobile/Filtro%20expandido.png" width="420"/> <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/mobile/Favoritos.png" width="420"/> <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/mobile/Quero%20dar%20aulas.png" width="420"/>
 
 ## Executando a aplicação
 ### Pré-requisitos
