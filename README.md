@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
 
-##Screenshots 
+## Screenshots 
 ### Web
 
 <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Home.png" width="400"/> <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Sem%20resultados.png" width="400"/> <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Listagem.png" width="400"/> <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Formul%C3%A1rio.png" width="400"/>
