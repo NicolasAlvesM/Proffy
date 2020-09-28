@@ -65,7 +65,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
    $ yarn # ou npm install
    ##### Inicie a aplicação web
    $ yarn start # ou npm start
-   <br /><br /> O Expo será aberto, basta digitalizar o qrcode no terminal ou na página que será aberta.
+   
+   
+   
+   O Expo será aberto, basta digitalizar o qrcode no terminal ou na página que será aberta.
    Você pode installar o aplicativo Expo para testar no celular
   ```
   ###### Se houver algum problema com as fontes, execute: 
