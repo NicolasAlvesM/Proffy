@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Screenshots 
 ### Web
 
-![Captura de tela de 2021-06-21 15-18-36](https://user-images.githubusercontent.com/61037425/122809086-06791480-d2a4-11eb-852f-1c1d2f9deccd.png)
+(https://user-images.githubusercontent.com/61037425/122809086-06791480-d2a4-11eb-852f-1c1d2f9deccd.png)
 <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Home.png" width="400"/> <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Sem%20resultados.png" width="400"/> <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Listagem.png" width="400"/> <img src="https://github.com/NicolasMorenoAlves/Proffy/blob/master/screenshots/web/Formul%C3%A1rio.png" width="400"/>
 
 ### Mobile
